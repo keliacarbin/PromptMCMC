@@ -1,6 +1,6 @@
 # PromptMCMC
 
-## Profile Generators.ipnby:
+## Profile Generators.ipynb:
 
 > Numerical Integral Profile Generation
 
