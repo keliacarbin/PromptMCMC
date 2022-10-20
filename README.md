@@ -1,6 +1,6 @@
 # PromptMCMC
 
-## Profile Generators.ipynb:
+## Profile Generators.ipynb (MODULAR):
 
 > Numerical Integral Profile Generation
 
@@ -19,3 +19,17 @@
 > Comparing Gammas of Analytical Profiles to R(theta) Profiles
 
 > Comparing Gammas for Analytical Profiles
+
+
+
+## Monte Carlo.ipynb (INLINE):
+
+> Profile Loading, Function Definitions, and Structure/MCMC Limit Previews
+
+> On/Off Probability, On/Off Angle Bounds, Distance-Angle Observation Distribution with 170817
+
+>> Afterglow Data Saver
+
+> Theta-Luminosity Mono/Joint Detection Distribution
+
+> Luminosity-Theta Joint Detection Distribution with 170817
